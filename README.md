@@ -1,8 +1,9 @@
-
 # Filmoteka
 
-Convenient website for searching movies with possibility to watch official trailer, read all necessary information and create own list of watched and queued films. Has light and dark themes and responsive layout.
-
+Convenient website for searching movies with possibility to watch official
+trailer, read all necessary information and create own list of watched and
+queued films. Has light and dark themes and responsive layout. Was made as a
+team project during studying in IT school GoIT.
 
 ## Authors
 
@@ -15,4 +16,3 @@ Convenient website for searching movies with possibility to watch official trail
 - [Illa Bzhezinskii](https://github.com/bzhezinskyi)
 - [Ihor Havrylov](https://github.com/i-havr)
 - [Ihor Berezhnyi](https://github.com/iberezhnyi)
-
